@@ -1,8 +1,12 @@
 # <h1 align="center">Hi 👋, I'm Tarik</h1>
 <h3 align="center">A passionate lawyer from Turkey.</h3>
 
+<h3 align="left">and also I made a music if you want :</h3>
+<p align="left">
+<a href= "https://soundcloud.com/tariktemur" alt="tarik temur" height="30" width="40" /></a>
+</p>
 
-- 🌱 I’m currently learning **Data Science Machine Learning**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 📫 How to reach me **0xtariktemur@gmail.com**
 
